@@ -1,0 +1,23 @@
+			body{
+				color:#ffffff;
+				background-image: url("images/Roach_Grey.png");
+				background-position: center;
+				font-family: Georgia, "Times New Roman", Times, serif;
+				font-size: 90%;
+				margin:0px;
+				text-align:center;
+				}
+			table{
+				text-align:left;
+				border: 1px solid gray;
+				background-color:#596A7F;
+			}
+			table td{
+				border: 1px solid #DDD;
+				vertical-align: top;
+				padding: 10px;
+			}
+			table.cv{
+				margin: 5px auto;
+				width: 800px;
+			}
