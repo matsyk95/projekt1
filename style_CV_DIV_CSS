@@ -1,0 +1,52 @@
+		body{
+			color:#ffffff;
+			background-image: url("images/Roach_Grey.png");
+			background-position: center;
+			font-family: Georgia, "Times New Roman", Times, serif;
+			font-size: 90%;
+			margin:0px;
+			text-align:center;}
+		.table{
+			color:#ffffff;
+			background:  #596A7F;
+			width: 800px;
+			margin: 20px auto 20px auto;
+        		border: 2px solid #000000;
+			}
+		.K1{
+			border: 1px solid #DDD;
+			}
+		.k1_left{
+			border: 1px solid #DDD;
+			width:420px;
+			float:left;
+			height: 230px;
+			padding: 10px;
+			text-align:left;
+				
+			}
+		.k1_right{	
+			float:left;
+			
+			left:30px; 
+			border: 1px solid #DDD;
+			width:354px;
+			
+			height: 250px;
+			
+			
+			}
+			
+		.k3{
+			clear:both;
+			border: 1px solid #DDD;
+			vertical-align: top;
+			padding: 10px;	
+			text-align:left;
+			}
+		.h3{
+			border: 1px solid #DDD;
+			vertical-align: top;
+			padding: 10px;	
+			text-align:left;
+		}
