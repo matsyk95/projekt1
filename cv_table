@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+ <head>
+		
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"> 
+	 	<title>CV-table</title>
+		<link rel="stylesheet" type="text/css" href="style2_cv_table.css" />
+
+ </head>
+ <body>
+	<h1>Curriculum Vitae</h1>
+
+	<table class="cv">
+	<tr> <!-- poczatek nowego wiersza tablei -->
+		<td style="width: 100%;"> <!-- dane tableli , kmoorka tabeli-->
+			<h2 style="text-align: center;">Mateusz SYkut</h2>
+			<p style="margin-top: 30px;">
+				<b>Adres:</b> Waryńskiego 20<br>
+				<b>Telefon:</b> 530 065 581<br>
+				<b>E-mail:</b> matsyk998@gmail.com<br>
+			</p>
+		</td>
+		<td style="width: 210;">
+			<img src="images/obraz1.jpg" alt="obraz1">
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2"> 
+		<h3>WYKSZTAŁCENIE</h3>
+		<ul>
+			<li>Politechnika Warszawska</li>
+			<li>II Liceum Ogólnokształcące im.KEN w Puławach</li>
+		</ul>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<h3>JĘZYKI OBCE</h3>
+		<ul>
+			<li>Angielski - dobry</li>
+			<li>Niemiecki - podstawowy</li>
+		</ul>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<h3>Doświadczenie</h3>
+		<ul>
+			<li>Praca w Macrae Edinburgh</li>
+			<li>Praca w firmie brukarskiej JMil</li>
+			<li>Wakacyjne prace dorywcze</li>
+		</ul>
+		
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<h3>Zainteresowania</h3>
+		<ul>
+			<li>Informatka- programowanie oraz webmastering</li>
+			<li>Sport</li>
+			<li>Historia</li>
+		</ul>
+		
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<p style="font-size: 13px">Wyrażaam zgodę  na przetwarzanie moich danych osobowych dla celów  rekrutacji, zgodnie z ustawą z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (tj. Dz. U. Nr 101 z 2002 r., poz. 926 z  zm.) </p>
+		</td>
+	</tr>
+	</table>
+
+<p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Poprawny CSS!" />
+    </a>
+		<a href="https://validator.w3.org/nu/#file">
+	<img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" width="165" height="64" alt="Poprawny HTML5" title="Poprawny HTML5">
+	</a>
+</p>
+      
+
+</body>
+</html>
